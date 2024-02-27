@@ -1,0 +1,120 @@
+User Stories - informal text or a general explanation of a software feature written from the perspective of end user 
+
+Templete of an User Story:
+“As a [persona], I [want to], [so that].”
+who's doing
+what they are doing
+what they are achieving
+
+Example:
+"As a Customer, 
+ I want to, be able to filter search results by price range, 
+ so that, I can easily find products within my budget".
+
+Key component - Agile 
+
+Written in Non technical language
+
+Stories fit in agile frame work are - scrum and kanban 
+
+scrum - stories added to sprints and burned down
+kanban - pull user stories into their backlog ad run them through workflow
+
+Building blocks of large work frameworks are known as epics and initiatives
+
+Epics are large work broken into smaller stories 
+
+Initiatives are multiple epics
+
+                                         Initiative
+                                             |
+                             -----------------------------------
+                             |              |                  |
+                           Epic 1         Epic2              Epic 3
+                             |              |                  |
+                       ------------    -----------         ------------
+                       |           |   |         |         |          |
+                    story1     story2  story1   story2    story1    story2
+                       
+
+
+Benefits of user stories-
+focus, collobartion,creativity,momentum
+
+Generally user stories are written by product owner,product manager,program manager
+
+The 3Cs in user stories are:
+     Card: This refers to the physical representation of the user story, usually an index card or a sticky note. 
+     Conversation: This refers to the discussion that takes place around the user story. 
+     Confirmation: This refers to the acceptance criteria that must be met in order for the user story to be considered complete. 
+
+
+In Agile, acceptance criteria refer to a set of predefined requirements that must be met to mark a user story complete. 
+Acceptance criteria are also sometimes called the “definition of done” because they determine the scope and requirements 
+that must be executed by developers to consider the user story finished.
+
+Acceptance Criteria Definition 1: “Conditions that a software product must satisfy to be accepted by a user, customer or other stakeholder.” 
+
+Acceptance Criteria Definition 2: “Pre-established standards or requirements a product or project must meet.” 
+
+Traits of Acceptence Criteria-
+    Acceptance criteria should be testable
+    Criteria should be clear and concise
+    Everyone must understand your acceptance criteria
+    Acceptance criteria should provide user perspective
+
+We need Accpetence criteria for-
+   Managing expectations
+   Defining scope and reducing ambiguity
+   Establishing testing criteria for QA
+   Defending aganist scope creep mid sprint
+
+Investing in User stories-
+   Independent: The story can be delivered independently of other stories. 
+
+   Negotiable: While we prefer stories written in a clear and unambiguous language, 
+               stories should not be written to such a level of detail that they become 
+               overly restrictive and prevent your team from arriving at the best solution themselves.
+
+   Valuable: Every story that’s delivered should make your product more valuable—period.
+
+   Estimable: Every story should provide enough information to equip your team to make a reasonable estimate of that story’s complexity.
+
+   Small: Smaller stories are easier for your team to understand and therefore are simpler to deliver. 
+
+   Testable: For each story that you write, you should be able to determine whether what was delivered met your expectations.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
