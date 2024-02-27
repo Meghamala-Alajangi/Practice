@@ -1,0 +1,181 @@
+1.What are indexes in SQL database?
+     -An index is a schema object. 
+     -It is used by the server to speed up the retrieval of rows by using a 
+      pointer. 
+
+2.Data Stores
+    A data store is a digital repository that stores and safeguards the 
+       information in computer systems. 
+     -A data store can be network-connected storage, distributed cloud storage, 
+      a physical hard drive, or virtual storage. 
+
+3.AWS :: Redis
+     -AWS offers two fully managed services to run Redis and Redis Enterprise Cloud 
+      (Pay-as-you-go) in AWS Marketplace. 
+     -Redis Enterprise Cloud is a fully managed cache and database-as-a-service for 
+      real-time use-cases offered by the creators of Redis. 
+
+4.In-memory storages :: Ephemeral Storages
+     -Ephemeral storage is temporary storage that does not extend beyond the 
+      life of an individual pod. 
+     -When a pod finishes or is restarted, any data stored in ephemeral storage 
+      is cleared out.
+
+5.Data state | Data storage
+   Data state 
+    -A data state descirbes different modes whereby data is used by computing equipment.
+     -The term applies to information security and efforts to encrypt data in each state.
+     
+   Data storage
+    Used to capture and retain digital data on storage devices.
+
+6.Persistent | Non-persistent storage 
+  Persistent Storage
+       Even when the machine [storage device/server/database server/etc] 
+       is switched OFF : data remains
+      -Device that is used for storing the data.
+      -Saves the data even if the power is turned off therefore they are also known as 
+       non-volatile material. 
+
+   Non-persistent storage 
+       Even when the machine [storage device/server/database server/etc] 
+       is switched OFF : data goes away
+      -Non-persistence data is not available after fully closing the application.
+      
+7. Enterprise Application
+
+An enterprise application(EA) is a large software system platform 
+      typically designed to operate in a corporate environment such as 
+      business or government. 
+
+8.  NPM vs NPX? 
+     NPM
+The npm stands for Node Package Manager and it is the default package manager 
+       for Node.js.  
+      -It is written entirely in JavaScript. 
+      -The npm manages all the packages and modules for node.js and consists of 
+       command-line client npm.
+NPX
+-The npx stands for Node Package Execute and it comes with the npm.
+      -When you installed npm above 5.2.0 version then automatically npx will installed. 
+      -It is an npm package runner that can execute any package that you want from the 
+       npm registry without even installing that package. 
+
+9. Types of testing
+
+Testing 
+Testing is a method to assess the functionality of the software program. 
+        -The process checks whether the actual software matches the expected requirements 
+         and ensures the software is bug-free. 
+
+Unit testing
+      
+        -is a method of testing individual units or components of a software application. 
+        -It is typically done by developers and is used to ensure that the individual units
+         of the software are working as intended. Unit tests are usually automated and are
+         designed to test specific parts of the code, such as a particular function or method. 
+        
+
+Functional testing
+      
+        -defined as a type of testing that verifies that each function of the software 
+         application works in conformance with the requirement and specification. 
+        -This testing is not concerned with the source code of the application. 
+        
+
+ E2E [end-to-end testing]
+   
+        -software testing used to test whether the flow of a software from initial stage to 
+         final stage is behaving as expected. 
+        -The purpose of end-to-end testing is to identify system dependencies and to make 
+         sure that the data integrity is maintained between various system components and systems. 
+        
+ API Testing
+     
+        -process of confirming that an API is working as expected. 
+        -Developers can run API tests manually, or they can automate them with an API testing tool. 
+        
+Security testing
+     
+        -uncovers vulnerabilities, threats, risks in a software application and prevents malicious 
+         attacks from intruders. 
+        -The purpose of Security Tests is to identify all possible loopholes and weaknesses of the 
+         software system which might result in a loss of information, revenue, repute at the hands 
+         of the employees or outsiders of the Organization.
+
+
+ Peformance testing
+       
+        -process used for testing the speed, response time, stability, reliability, scalability, 
+         and resource usage of a software application under a particular workload. 
+        -The main purpose of performance testing is to identify and eliminate the performance 
+         bottlenecks in the software application. 
+
+
+
+ Monkey testing
+      
+        -software testing in which the tester tests the application or software by providing 
+         some random inputs and checking the behavior of the application or the software. 
+        -It is also observed by seeing whether the application or software crashes on a given input or not. 
+        -Monkey testing is usually implemented as random and automated unit testing.
+
+
+
+ Hashmap
+     -Java HashMap is similar to HashTable, but it is unsynchronized. 
+     -It allows to store the null keys as well, but there should be only one null key object and 
+      there can be any number of null values. 
+
+
+ What is ArrayList?
+     -ArrayList is a Java class implemented using the List interface. 
+     -Java ArrayList, provides the functionality of a dynamic array where the size is not fixed as an array. 
+     -Also, as a part of the Collection framework, it has many features not available with arrays.
+
+
+API
+     ---
+     -An API stands for Application Program Interface. 
+     -It is a set of instructions, protocols, and tools for building software applications. 
+     -It specifies how software components should interact.
+    
+
+ Gateway API
+    -----------
+    -The API Gateway is a server. 
+    -It is a single entry point into a system. 
+    -API Gateway encapsulates the internal system architecture. 
+    -It provides an API that is tailored to each client. 
+    
+
+ Rest API
+     --------
+     -REST stands for REpresentational State Transfer and API stands for Application Program Interface. 
+     -REST is a software architectural style that defines the set of rules to be used for creating web services. 
+     -Web services which follow the REST architectural style are known as RESTful web services. 
+     -It allows requesting systems to access and manipulate web resources by using a uniform and predefined 
+      set of rules. 
+     
+
+ What is an interface and its uses?
+      -The interface in Java is a mechanism to achieve abstraction. 
+      -There can be only abstract methods in the Java interface, not the method body. 
+      -It is used to achieve abstraction and multiple inheritances in Java using Interface.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
