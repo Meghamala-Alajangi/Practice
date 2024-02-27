@@ -1,0 +1,69 @@
+Sprint Backlog:
+-A Sprint backlog is a list of tasks or user stories that a development team plans
+ to work on during a specific sprint in Agile software development. 
+-It's derived from the prioritized product backlog and includes the items 
+ selected for the sprint, along with the tasks needed to complete them. 
+-The Sprint backlog is dynamic and may change as the team progresses through the sprint.
+
+Sprint:
+-In Agile methodology, a sprint is a time-boxed iteration, usually lasting between 
+ one to four weeks, where a development team works on a set of tasks or user stories determined 
+ during the sprint planning meeting. 
+-Sprints allow teams to focus on delivering a potentially shippable product increment 
+ at the end of each iteration, fostering transparency, collaboration, and continuous improvement.
+
+Product Owner:
+-The Product Owner in Agile development is a key role responsible for representing 
+ the interests of the stakeholders and ensuring that the development team builds the right product. 
+-They are typically accountable for managing the product backlog, prioritizing user stories, 
+ and providing clear direction and requirements to the development team. 
+-The Product Owner works closely with stakeholders to gather feedback, make decisions, and 
+ ensure the product meets business objectives and customer needs.
+
+Product Backlog:
+-The product backlog is a prioritized list of all desired work on a product, 
+ maintained by the product owner in Agile methodology. 
+-It contains user stories, defects, enhancements, and any other tasks that need to be 
+ addressed to fulfill the product vision. 
+-The items in the backlog are ordered based on their value to the business and customers, 
+ with the most important items at the top. 
+-The product backlog is dynamic and evolves over time as new information emerges, priorities change, and the product evolves.
+
+Scrum Master:
+-The Scrum Master is a facilitator and servant leader within the Scrum framework, 
+ responsible for ensuring that the Scrum team adheres to Scrum principles and practices. 
+-They coach the team on Agile and Scrum principles, facilitate Scrum events such as sprint planning, 
+ daily stand-ups, sprint review, and sprint retrospective meetings. 
+-The Scrum Master also removes impediments that hinder the team's progress, fosters a collaborative and 
+ self-organizing team environment, and helps to improve the team's efficiency and effectiveness over time.
+
+Increment:
+-In Agile development, an increment refers to the sum of all the product backlog items 
+ completed during a sprint, plus the value of the work from all previous sprints. 
+-It is a tangible, usable, and potentially releasable product increment that demonstrates progress 
+ toward the product's vision and goals. Each increment should be fully functional, meeting the definition of done, 
+ and ready for review by stakeholders. 
+-Increments are built iteratively and incrementally, allowing for continuous feedback and improvement throughout the development process.
+
+Daily Scrum:
+-The Daily Scrum, also known as the Daily Stand-up, is a short, time-boxed meeting in Agile and Scrum methodology 
+ where the development team gathers to synchronize their activities and plan for the day. 
+-It typically lasts no longer than 15 minutes and is held at the same time and place every day. 
+-During the Daily Scrum, each team member answers three questions: 
+       1. What did I do yesterday?
+       2. What will I do today?
+       3. Are there any impediments blocking my progress?
+-The Daily Scrum helps the team stay aligned, identify any potential issues or blockers early on, 
+ and ensures that progress is being made towards the sprint goal.
+
+Sprint Retrospective:
+-The Sprint Retrospective is a meeting held at the end of each sprint in Agile methodology, 
+ where the Scrum team reflects on the previous sprint to identify what went well, what didn't go well, 
+ and areas for improvement. 
+-It's an opportunity for the team to inspect and adapt their processes, tools, and 
+ behaviors to become more effective and efficient. During the Sprint Retrospective, team members typically discuss:
+       1. What went well during the sprint (positives)?
+       2. What didn't go well (negatives)?
+       3. What actions can be taken to improve in the next sprint?
+-The Sprint Retrospective fosters continuous improvement and helps the team address issues and 
+ make adjustments to enhance their performance in future sprints.
