@@ -1,0 +1,70 @@
+Test Plan:
+----------
+A test plan is a document that consists of all future testing-related activities. 
+It is prepared at the project level and in general, it defines work products 
+to be tested, how they will be tested, and test type distribution among the testers.
+
+Test lead, Test Manager, Test Engineer will prepare a Test Plan.
+
+The test plan serves as the blueprint that changes according to the progressions 
+in the project and stays current at all times.
+
+It serves as a base for conducting testing activities and coordinating activities 
+among a QA team.
+
+It is shared with Business Analysts, Project Managers, and anyone associated 
+with the project.
+
+Key Benefits:
+-------------
+1.Quick guide for the testing process
+2.Helps to avoid out-of-scope functionalities
+3.Helps to determine the time, cost, and effort
+4.Provide a schedule for testing activities
+5.Test plan can be reused
+
+Objectives:
+-----------
+1.Overview of testing activities
+2.Provides timeline
+3.Helps to estimate resources
+4.Serves as a blueprint
+5.Helps to identify solutions
+6.Serves as a rulebook
+
+Types of Test Plans:
+--------------------
+1.Mater - includes multiple test strategies and has multiple levels of testing.
+2.Phase - emphasis is on any one phase of testing.
+3.Specific - designed for specific types of testing especially non-functional testing 
+
+Steps to create an efficient test plan:
+---------------------------------------
+1.Define the release scope - define the scope of testing for your release.
+
+2.Schedule timelines - Specify release deadlines.
+
+3.Define test objectives - is a reason or purpose for designing and executing a test.
+ 
+  Metrics to measure Testing:
+  1.Defect Density
+
+         Defect Density = Defect count/size of the release (lines of code)
+
+  2.Test Coverage
+
+         Test Coverage = (Total number of requirements mapped to test cases / Total number of requirements) x 100.
+          
+   3.Defect Detection Efficiency (DDE)
+
+         DDE = The percentage of defects detected during a phase / Total number of defects
+   
+   4.Time to Market
+
+         TTM = The time it takes for your company to go from idea to product launch
+
+4.Determine test deliverables - helps in track testing progress.
+
+5.Design the test strategy - determine test cost, test effort.
+
+6.Plan test environment and test data -  helps in precise and robust testing.
