@@ -1,0 +1,25 @@
+Verification and Validation in Software Testing:
+
+------------------------------------------------
+Verification:
+-------------
+-Verification evaluates software artifacts (such as requirements, design, code, etc.) 
+ to ensure they meet the specified requirements and standards. 
+-It ensures the software is built according to the needs and design specifications.
+-Is the process of checking that a software achieves its goal without any bugs. 
+-It is the process to ensure whether the product that is developed is right or not. 
+-It verifies whether the developed product fulfills the requirements that we have. 
+-Verification is static testing.
+-Verification means Are we building the product right?  
+
+Validation:
+-----------
+-Validation evaluates software to meet the user’s needs and requirements. 
+-It ensures the software fits its intended purpose and meets the user’s expectations.
+-Is the process of checking whether the software product is up to the mark or 
+ in other words product has high level requirements. 
+-It is the process of checking the validation of product i.e. it checks 
+ what we are developing is the right product. 
+-It is validation of actual and expected product. 
+-Validation is the dynamic testing. 
+-Validation means Are we building the right product? 
