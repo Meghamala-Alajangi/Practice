@@ -1,0 +1,44 @@
+Git:
+----
+Git is a distributed version control system for tracking changes in source code during software development. 
+It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. 
+Its goals include speed, data integrity, and support for distributed, non-linear workflows. 
+
+GitHub:
+-------
+GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control 
+and source code management (SCM) functionality of Git as well as adding its own features. 
+
+Git commands:
+-------------
+
+1. git init: Initialize a new Git repository in the current directory.
+
+2. git clone [repository URL]: Clone a repository from a remote server to your local machine.
+
+3. git add [file(s)]: Add file(s) to the staging area.
+
+4. git commit -m "Commit message": Commit changes in the staging area with a descriptive message.
+
+5. git status: Check the status of your working directory and staging area.
+
+6. git pull: Fetch changes from the remote repository and merge them into the current branch.
+
+7. git push: Push local commits to the remote repository.
+
+8. git branch: List all branches in the repository.
+
+9. git checkout [branch name]: Switch to a different branch.
+
+10.git merge [branch name]: Merge changes from another branch into the current branch.
+
+11.git log: Display the commit history.
+
+12.git remote -v: List all remote repositories and their URLs.
+
+13.git remote add [name] [URL]: Add a new remote repository.
+
+14.git remote remove [name]: Remove a remote repository.
+
+15.git reset [file]: Unstage a file while retaining its changes.
+
